@@ -1,6 +1,6 @@
-# Unity MCP + WorkBuddy 实战指南
+# Unity MCP + WorkBuddy连接
 
-本仓库整理了一套 **用 AI 客户端（WorkBuddy / Cursor / VS Code / Claude Code 等）通过 MCP 控制 Unity 编辑器** 的完整方案，以及在实践中踩过的坑与对应的解决办法。
+本仓库整理了一套 WorkBuddy 通过 MCP 控制 Unity 编辑器 的完整方案，以及在实践中踩过的坑与对应的解决办法。
 
 > ⚠️ 注意：**MCP for Unity 并非 Unity 官方出品**，它由社区项目 [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)（MIT 协议）提供，支持 Unity 2021.3 LTS 及更高版本，包含 Unity 6.x。本文档中所有“官方”一词若无特别说明，均指该项目自带的安装器/向导。
 
