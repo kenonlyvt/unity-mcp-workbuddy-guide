@@ -5,7 +5,7 @@
 ---
 
 
-0. 先搞清楚幾件事   
+0. 先搞清楚幾件事
 MCP for Unity 不是 Unity 官方插件，是社群專案 CoplayDev/unity-mcp（MIT）。它由兩個部分組成：   
 
 Unity 側插件 com.coplaydev.unity-mcp（C#，裝進你的專案）
