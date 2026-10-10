@@ -1,5 +1,9 @@
-適用版本：Unity 2021.3 LTS ~ 6.x ｜ MCP for Unity（CoplayDev，非 Unity 官方）v10.x
-本文基於一次真實的 Windows 環境落地流程整理，重點放在官方文件沒說、但一定會踩的坑。   
+# Unity MCP （WorkBuddy）
+> 適用版本：Unity 2021.3 LTS ~ 6.x ｜ MCP for Unity（CoplayDev，非 Unity 官方）v10.x
+> 本文基於一次真實的 Windows 環境落地流程整理，重點放在官方文件沒說、但一定會踩的坑。   
+
+---
+
 
 0. 先搞清楚幾件事   
 MCP for Unity 不是 Unity 官方插件，是社群專案 CoplayDev/unity-mcp（MIT）。它由兩個部分組成：   
